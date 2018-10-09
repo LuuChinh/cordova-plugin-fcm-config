@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "177565939105",
+    "firebase_url": "https://notification-vas.firebaseio.com",
+    "project_id": "notification-vas",
+    "storage_bucket": "notification-vas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177565939105:android:af3fb56e2376eee8",
+        "android_client_info": {
+          "package_name": "com.mobifone5.vas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177565939105-k90r1uulbn9u0prm0jnmtc625b5bpemp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobifone5.vas",
+            "certificate_hash": "4e39b360c46fe72c95fe5455f5a080f0e62cd29d"
+          }
+        },
+        {
+          "client_id": "177565939105-hdugf7f73boa3cbbtsm6rfkhc20kclch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_Cd_GrHMJr6YfBC9FV72CUiUeLXNskY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177565939105-hdugf7f73boa3cbbtsm6rfkhc20kclch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177565939105-6p7qo3javpo59219bdbofgrfmd61o4ll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobifone5.vas",
+                "app_store_id": "1422624242"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
